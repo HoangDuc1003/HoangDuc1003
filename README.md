@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gitprofile.gif" width="100%" style="max-width: 1200px;"/>
+  <img src="gitprofile.gif" width="80%" style="max-width: 1200px;"/>
 </div>
 
 <h1 align="center">
