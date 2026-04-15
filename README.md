@@ -9,9 +9,9 @@
 
 <div align="center">
  
-🎓 Software Engineer specializing in Backend & Full-Stack Development<br/>
-💼 Building scalable web applications and robust APIs<br/>
-🚀 Passionate about clean code and innovative solutions
+🎓 Software Engineer specializing in Backend & Full-Stack Development & HPC<br/>
+💼 Building high-concurrency systems & robust APIs<br/>
+🚀 Passionate about algorithms, parallel programming & optimization
 
 <div align="center"> 
   <a href="https://github.com/HoangDuc1003" target="_blank">
@@ -28,16 +28,13 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,nodejs,javascript" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,tailwind,vercel" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,stripe,cloudinary,postman" />
+  <img src="https://skillicons.dev/icons?i=bash,git,docker,linux" />
 </div>
-
 <br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -93,19 +90,18 @@
 
 <div align="center">
   
-- 🔧 **Backend Development**: Building robust APIs with Node.js, Express.js
-- 🌐 **Full-Stack Applications**: End-to-end web solutions using MERN stack
-- 🗄️ **Database Design**: MongoDB, PostgreSQL optimization and modeling
-- ☁️ **Cloud Services**: AWS, Vercel deployment and DevOps
-- 💳 **Payment Integration**: Stripe, secure transaction processing
-- 🔐 **Authentication**: JWT, Clerk, OAuth implementations
+- ⚡ **HPC & Parallel Computing**: MPI, OpenMP & performance optimization.
+- 🔧 **Backend Architecture**: Building scalable, high-concurrency APIs.
+- 🧠 **Algorithms**: Problem-solving with optimal time/space complexity.
+- 🗄️ **Databases & Memory**: Low-latency systems & efficient data modeling.
+- 🌐 **Network Infrastructure**: Routing, topology design & system communication.
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HoangDuc1003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <h3 align="center">
