@@ -6,23 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+👋+I'm+Nguyễn+Đức+Hoàng!;Software+Engineer;Backend+%26+Full-Stack+Developer;" />
 </h1>
 
-<div align="center">
- 
-🎓 Software Engineer specializing in Backend & Full-Stack Development<br/>
-💼 Building scalable web applications and robust APIs<br/>
-🚀 Passionate about clean code and innovative solutions
-
-<div align="center"> 
-  <a href="https://github.com/HoangDuc1003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:nguyenduchoang1003.work@gmail.com">
-  <img src="./swe.gif" width="100%" style="max-width: 1200px;"/>
-</div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+👋+I'm+Nguyễn+Đức+Hoàng!;Software+Engineer;Backend+%26+Full-Stack+Developer;" />
-</h1>
 
 <div align="center">
  
